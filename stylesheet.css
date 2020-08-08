@@ -558,7 +558,7 @@ label:hover :checked+.card {
 }
 
 /* contact Us */
-.form{
+.form-body{
   width: 410px;
   height: 520px;
   background: #e6e6e6;
